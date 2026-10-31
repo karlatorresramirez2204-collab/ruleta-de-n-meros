@@ -1,0 +1,6 @@
+{
+  "name": "El Mensaje Secreto - Calculadora Ruleta",
+  "description": "Dinámica interactiva infantil: Ruleta con estética de calculadora para sortear números del 1 al 25 sin repetición para el juego del mensaje secreto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
